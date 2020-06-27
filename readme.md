@@ -1,9 +1,8 @@
-# Sean Kross
+# this is my repo
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in the city of warangal, in the state of Telangana, in India.
 
 ### Reading
 
@@ -17,9 +16,9 @@ Three of my favorite books are:
 
 Last night I dreamt about eating in these restaurants:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Biryani in bawarchi.
+2. aloo chat in general bazar.
+3. burger in burger king.
 
 ### Contact
 
